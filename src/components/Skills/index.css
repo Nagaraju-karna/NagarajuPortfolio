@@ -1,0 +1,185 @@
+.bg-container-skills-darks {
+    background: linear-gradient(to right, #01010c, #01131f);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+.bg-container-skills-lights {
+    background: linear-gradient(to right, #252341, #300630);
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 30px 20px;
+    box-sizing: border-box;
+}
+
+
+.skills-title-dark {
+    font-size: 40px;
+    color: #ffffff;
+    font-family: bree serif;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+
+.skills-title-light {
+    font-size: 40px;
+    color: #ffffff;
+    font-family: bree serif;
+    text-align: center;
+    margin-bottom: 0px;
+}
+
+
+.skills-para-dark {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: roboto;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.skills-para-light {
+    font-size: 20px;
+    color: #ffffff;
+    font-family: roboto;
+    text-align: center;
+    margin-top: 5px;
+}
+
+.border-bg-frondend-skills {
+
+    width: 200px;
+    border-color: #3702f8;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+
+
+}
+
+.title-front {
+    font-size: 15px;
+    color: #ffffff;
+    font-family: roboto;
+    text-align: center;
+}
+
+.skills {
+    height: 25px;
+    width: 75px;
+    border-color: #dcdcdc;
+    border-style: solid;
+    border-width: 1px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.icons-skills-bg {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.skill-name {
+    color: #dcdcdc;
+    font-family: roboto;
+    font-size: 10px;
+    margin-left: 5px;
+
+}
+
+.icons {
+    color: #3702f8;
+}
+
+.icons-html {
+    color: rgb(245, 90, 1);
+}
+
+.icons-css {
+    color: #3702f8;
+}
+
+.icons-js {
+    color: #f4f80a;
+}
+
+
+.bg-skills-container {
+    display: flex;
+
+
+}
+
+.border-bg-backend-skills {
+
+    width: 200px;
+    border-color: #3702f8;
+    border-style: solid;
+    border-width: 2px;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.node-icons {
+    color: #ffffff;
+}
+
+.express-icons {
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.python-icons {
+    color: #f4f80a;
+}
+
+.sql-icons {
+    color: #3702f8;
+}
+
+.restApi-icons {
+    color: #3702f8;
+}
+
+.vs-icons {
+    color: #3702f8;
+}
+
+.git-icons {
+    background-color: #ffffff;
+    border-radius: 5px;
+}
+
+.description {
+    font-size: 8px;
+    color: #dcdcdc;
+    font-weight: bold;
+    font-family: roboto;
+}
+
+.icons-display {
+    display: flex;
+    align-items: center;
+
+}
+
+.icons-frontend {
+    color: #dcdcdc;
+    margin-right: 10px;
+    margin-left: 15px;
+}

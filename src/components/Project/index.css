@@ -1,0 +1,142 @@
+.bg-container-skills-dark {
+    background: linear-gradient(to right, #01010cfb, #01131f);
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+}
+
+.bg-container-skills-light {
+    background: linear-gradient(to right, #252341fb, #300630);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.project-title {
+    color: #090dd4;
+    font-family: roboto;
+    font-size: 25px;
+    text-align: center;
+}
+
+.description-project {
+    color: #dcdcdc;
+    font-size: 12px;
+    font-family: roboto;
+    font-weight: bold;
+    text-align: center;
+}
+
+.project-bg {
+    margin: 8px;
+    width: 200px;
+    background-color: #dcdcdc;
+    border-radius: 5px;
+}
+
+.logo-bg {
+    height: 80px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.logo-bg-container{
+    height: 100px;
+    width: 200px;
+    border-radius: 5px;
+}
+
+.title-para {
+    font-family: roboto;
+    font-size: 15px;
+    color: #000000;
+}
+
+.description-portfolio {
+    color: #000000;
+    font-size: 8px;
+    font-weight: bold;
+}
+
+.bg-first-project {
+    padding: 8px;
+}
+
+.project-repo {
+    font-size: 10px;
+    color: #ffffff;
+    font-family: roboto;
+    text-decoration: none;
+
+
+}
+
+.project-repo-live {
+    font-size: 10px;
+    color: #ffffff;
+    background-color: #2b2edd;
+    font-family: roboto;
+    text-decoration: none;
+    margin-left: 5px;
+}
+
+.project-repo-code {
+    font-size: 15px;
+    color: #b90d1b;
+    background-color: #000000;
+    font-family: roboto;
+    text-decoration: none;
+}
+
+
+.nagaraju-projects {
+    display: flex;
+}
+
+.anchor-bg {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.btn-click-project-codes {
+    background-color: #000000;
+    border-width: 0px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+    margin-left: 10px;
+}
+
+.enter-logo {
+    color: #ffffff;
+    height: 10px;
+    margin-right: 5px;
+}
+
+
+.git-logo {
+    color: #ffffff;
+    height: 10px;
+    margin-right: 5px;
+}
+
+
+.btn-click-project-live {
+    background-color: #2b2edd;
+    border-width: 0px;
+    height: 15px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.container-live-demo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
